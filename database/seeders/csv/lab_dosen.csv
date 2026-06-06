@@ -1,0 +1,55 @@
+nama_dosen,lab_code,nama_lab,is_kalab
+"Prof. Ir. Yan Watequlis Syaifudin, ST., M.MT., Ph.D.",AI,Applied Informatics,1
+"Deddy Kusbianto PA, Ir., M.Mkom.",AI,Applied Informatics,0
+"Dr. Yuri Ariyanto, S.Kom., M.Kom.",AI,Applied Informatics,0
+"Muhammad Afif Hendrawan., S.Kom., M.T.",AI,Applied Informatics,0
+"Pramana Yoga Saputra, S.Kom., MMT.",AI,Applied Informatics,0
+"Triana Fatmawati, S.T., M.T.",AI,Applied Informatics,0
+"Dr. Rakhmat Arianto, S.ST., M.Kom.",BA,Business Analytics,1
+"Ahmadi Yuli Ananta, ST., M.M.",BA,Business Analytics,0
+"Candra Bella Vista, S.Kom., MT.",BA,Business Analytics,0
+"Dhebys Suryani, S.Kom., MT",BA,Business Analytics,0
+"Endah Septa Sintiya. SPd., MKom.",BA,Business Analytics,0
+"Farid Angga Pribadi, S.Kom.,M.Kom",BA,Business Analytics,0
+"Hendra Pradibta, SE., M.Sc.",BA,Business Analytics,0
+"Ir. Rudy Ariyanto, ST., M.Cs.",BA,Business Analytics,0
+"Rokhimatul Wakhidah, S.Pd., M.T.",BA,Business Analytics,0
+"Yoppy Yunhasnawa, S.ST., M.Sc.",DT,Data Technologies,1
+"Dika Rizky Yunianto, S.Kom, M.Kom",DT,Data Technologies,0
+"Gunawan Budi Prasetyo, ST., MMT., Ph.D.",DT,Data Technologies,0
+"Habibie Ed Dien, S.Kom., M.T.",DT,Data Technologies,0
+"Luqman Affandi, S.Kom., MMSI",DT,Data Technologies,0
+"M. Hasyim ratsanjani, S.Kom., M.Kom.",DT,Data Technologies,0
+"Vit Zuraida, S.Kom., M.Kom.",DT,Data Technologies,0
+"Dr.Eng. Banni Satria Andoko, S. Kom., M.MSI.",InLET,Information and Learning Engineering Technology,1
+"Agung Nugroho Pramudhita, S.T., M.T.",InLET,Information and Learning Engineering Technology,0
+"Budi Harijanto, ST., M.MKom.",InLET,Information and Learning Engineering Technology,0
+"Dr. Indra Dharma Wijaya, ST., M.MT.",InLET,Information and Learning Engineering Technology,0
+"Usman Nurhasan, S.Kom., MT.",InLET,Information and Learning Engineering Technology,0
+"Vivin Ayu Lestari, S.Pd., M.Kom",InLET,Information and Learning Engineering Technology,0
+"Dr. Ulla Delfana Rosiani, ST., MT.",IVSS,Intelligent Vision and Smart System,1
+"Dr. Ely Setyo Astuti, S.T., M.T.",IVSS,Intelligent Vision and Smart System,0
+"Mamluatul Hani'ah, S.Kom., M.Kom.",IVSS,Intelligent Vision and Smart System,0
+"Mungki Astiningrum, ST., M.Kom.",IVSS,Intelligent Vision and Smart System,0
+"Prof. Dr. Eng. Rosa Andrie Asmara, ST., MT.",IVSS,Intelligent Vision and Smart System,0
+"Vivi Nur Wijayaningrum, S.Kom, M.Kom",IVSS,Intelligent Vision and Smart System,0
+"Wilda Imama Sabilla, S.Kom., M.Kom.",IVSS,Intelligent Vision and Smart System,0
+"Dimas Wahyu Wibowo, ST., MT.",MMT,Multimedia & Mobile Tech,1
+"Adevian Fairuz Pratama, S.S.T, M.Eng",MMT,Multimedia & Mobile Tech,0
+"Anugrah Nur Rahmanto, S.Sn., M.Ds.",MMT,Multimedia & Mobile Tech,0
+"Bagas Satya Dian Nugraha, ST., MT.",MMT,Multimedia & Mobile Tech,0
+"Eka Larasati Amalia, S.ST., MT.",MMT,Multimedia & Mobile Tech,0
+"Muhammad Unggul Pamenang, S.ST., M.T.",MMT,Multimedia & Mobile Tech,0
+"Prof. Dr. Eng. Cahya Rahmad, ST., M.Kom.",MMT,Multimedia & Mobile Tech,0
+"Retno Damayanti, S.Pd., M.T.",MMT,Multimedia & Mobile Tech,0
+"Erfan Rohadi, ST., M.Eng., Ph.D.",NCS,Network and Cyber Security,1
+"Ade Ismail S.Kom., M.TI",NCS,Network and Cyber Security,0
+"Meyti Eka Apriyani ST., MT.",NCS,Network and Cyber Security,0
+"Sofyan Noor Arief, S.ST., M.Kom.",NCS,Network and Cyber Security,0
+"Vipkas Al Hadid Firdaus, ST,. MT",NCS,Network and Cyber Security,0
+"Imam Fahrur Rozi, ST., MT.",SE,Software Engineering,1
+"Ariadi Retno Tri Hayati Ririd, S.Kom., M.Kom.",SE,Software Engineering,0
+"Dian Hanifudin Subhi, S.Kom., M.Kom.",SE,Software Engineering,0
+"Elok Nur Hamdana, S.T., M.T",SE,Software Engineering,0
+"Moch Zawaruddin Abdullah, S.ST., M.Kom.",SE,Software Engineering,0
+"Ridwan Rismanto, S.ST., M.Kom., Ph.D.",SE,Software Engineering,0
