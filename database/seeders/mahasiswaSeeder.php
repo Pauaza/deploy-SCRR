@@ -36,3 +36,5 @@ class MahasiswaSeeder extends Seeder
         fclose($file);
     }
 }
+// Penjelasan:
+// 1. Membuka file CSV yang berisi data mahasiswa.
